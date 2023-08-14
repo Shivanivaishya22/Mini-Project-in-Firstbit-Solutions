@@ -1,0 +1,4 @@
+1,candy,400,2
+2,vanila,500,1
+4,dark choc,600,38
+5,strawberry,500,10

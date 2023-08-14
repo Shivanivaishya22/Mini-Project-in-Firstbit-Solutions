@@ -1,0 +1,9 @@
+choco,3,6,2700
+vanila,2,10,5000
+vanila,2,10,5000
+dark,4,2,1200candy,1,4,1600
+vanila,2,20,10000
+
+candy,1,4,1600
+vanila,2,5,2500
+
